@@ -1,0 +1,11 @@
+# Virtual machine files
+*.ova
+*.vdi
+*.vmdk
+
+# Passwords and secrets
+.env
+*.key
+*.pem
+wazuh-passwords.txt
+wazuh-install-files.tar
