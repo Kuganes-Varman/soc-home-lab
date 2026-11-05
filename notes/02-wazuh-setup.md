@@ -30,6 +30,10 @@
 - Opened `https://192.168.56.102` in my browser.
 - Accepted the browser's certificate warning, which is expected because the lab uses a self-signed certificate.
 - Confirmed that the dashboard loaded.
+  <img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/f1da0f28-c13d-4eee-8fe8-15322208ac7a" />
+  <img width="1917" height="951" alt="image" src="https://github.com/user-attachments/assets/afbea49d-cf9c-49a1-a4ee-af32654aa13b" />
+
+
 
 ### 4. Replaced the default passwords
 - Connected to the VM over SSH from PowerShell.
